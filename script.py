@@ -67,7 +67,7 @@ async def translate_text_with_openai(prompt: str, target_language: str, cache: D
         f"You are a helpful assistant that translates text to {target_language}. "
         "Maintain the original meaning as closely as possible. "
         f"Adjust the tone of the translation to be appropriate for professional presentations in the target language ({target_language}). "
-        "The translated text should be approximately the same character length as the original text (within a 5% margin). "
+        "The translated text should be approximately the same character length as the original text (within a 5% margin). Do not translate things like emails, phone numbers, or other non-text content. "
         f"{schema_instruction}"
     )
 
