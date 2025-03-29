@@ -28,3 +28,1290 @@
 [2025-03-29 11:40:59] [INFO] Processing batch 27/27 (6 texts)
 [2025-03-29 11:41:30] [INFO] Batch translation completed
 [2025-03-29 11:41:31] [SUCCESS] Translated presentation saved to: ConnectedFactory_en_translated_fr.pptx
+[2025-03-29 12:14:50] [INFO] Starting batch translation of 118 texts in 12 batches
+[2025-03-29 12:14:50] [INFO] Processing batch 1/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 2/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 3/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 4/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 5/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 6/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 7/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 8/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 9/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 10/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 11/12 (10 texts)
+[2025-03-29 12:14:50] [INFO] Processing batch 12/12 (8 texts)
+[2025-03-29 12:14:57] [INFO] Batch translation completed
+[2025-03-29 12:14:58] [SUCCESS] Translated presentation saved to: 06 - Asset Visibility, Mike Millman, Day 2 SKO_CPS 2024, EMEA_translated_fr.pptx
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 1
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 7 (slide1_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 2
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 2
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 3
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide3_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 17 (slide3_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 26 (slide3_shape4_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide3_shape4_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide3_shape4_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 3
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 4
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide4_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 75 (slide4_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide4_shape1_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Rectangle 2 (slide4_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 3 (slide4_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 5 (slide4_shape5_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 12 (slide4_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide4_shape6_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 15 (slide4_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide4_shape7_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 21 (slide4_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide4_shape8_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 4
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 5
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 4 (slide5_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 1 (slide5_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide5_shape1_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 10 (slide5_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide5_shape2_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide5_shape2_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide5_shape2_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 11 (slide5_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide5_shape3_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide5_shape3_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide5_shape3_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 12 (slide5_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide5_shape4_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide5_shape4_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide5_shape4_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide5_shape4_sub5)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 13 (slide5_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide5_shape5_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide5_shape5_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide5_shape5_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide5_shape5_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 14 (slide5_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide5_shape6_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide5_shape6_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide5_shape6_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 5
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 6
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 30 (slide6_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 75 (slide6_shape0_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 11 (slide6_shape0_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 31 (slide6_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 74 (slide6_shape1_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 12 (slide6_shape1_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide6_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide6_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide6_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide6_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide6_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 18 (slide6_shape10)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide6_shape11)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 79 (slide6_shape12)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide6_shape12_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 78 (slide6_shape13)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide6_shape13_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 76 (slide6_shape14)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide6_shape14_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 80 (slide6_shape15)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 24 (slide6_shape15_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 81 (slide6_shape16)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide6_shape16_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 77 (slide6_shape17)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide6_shape17_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide6_shape24)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 82 (slide6_shape25)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 83 (slide6_shape26)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 6
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 7
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 45 (slide7_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 48 (slide7_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 51 (slide7_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 54 (slide7_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 41 (slide7_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 32 (slide7_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 29 (slide7_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 38 (slide7_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 20 (slide7_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 23 (slide7_shape10)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 26 (slide7_shape11)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 35 (slide7_shape12)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 7
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 8
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide8_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide8_shape17)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide8_shape18)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide8_shape19)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide8_shape20)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide8_shape21)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide8_shape23)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide8_shape24)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide8_shape25)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 8
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 9
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 53 (slide9_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 31 (slide9_shape0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 56 (slide9_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 50 (slide9_shape1_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape1_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 55 (slide9_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 51 (slide9_shape2_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape2_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide9_shape2_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 16 (slide9_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 54 (slide9_shape3_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 52 (slide9_shape3_sub0_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape3_sub0_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 28 (slide9_shape3_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 9
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 10
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide10_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide10_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide10_shape10)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide10_shape11)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide10_shape12)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide10_shape13)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide10_shape15)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 26 (slide10_shape16)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 27 (slide10_shape17)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 10
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 11
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide11_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 12 (slide11_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 32 (slide11_shape1_sub6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide11_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide11_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide11_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide11_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide11_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide11_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide11_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 11
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 12
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide12_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 34 (slide12_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 5 (slide12_shape3_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 29 (slide12_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 32 (slide12_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide12_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide12_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide12_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide12_shape10)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide12_shape11)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide12_shape12)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide12_shape13)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide12_shape14)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide12_shape15)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide12_shape16)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 12
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 13
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 106 (slide13_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 105 (slide13_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape1_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 104 (slide13_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape2_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 35 (slide13_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide13_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide13_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide13_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide13_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide13_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide13_shape9)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide13_shape10)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide13_shape11)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide13_shape12)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide13_shape13)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide13_shape14)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide13_shape15)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide13_shape16)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 49 (slide13_shape17)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide13_shape18)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 51 (slide13_shape19)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide13_shape20)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 107 (slide13_shape21)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 88 (slide13_shape21_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape21_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 64 (slide13_shape22)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 87 (slide13_shape22_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape22_sub0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 63 (slide13_shape23)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 108 (slide13_shape23_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape23_sub2_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide13_shape23_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape24)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 13
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 14
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 79 (slide14_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape0_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 83 (slide14_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape1_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub5)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 82 (slide14_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape2_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape2_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 81 (slide14_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape3_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape3_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 80 (slide14_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape4_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 34 (slide14_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 2 (slide14_shape5_sub0)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 14
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 15
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 4 (slide15_shape0)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 1 (slide15_shape1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide15_shape1_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 10 (slide15_shape2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide15_shape2_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide15_shape2_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide15_shape2_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 11 (slide15_shape3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide15_shape3_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide15_shape3_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide15_shape3_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 12 (slide15_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide15_shape4_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide15_shape4_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide15_shape4_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide15_shape4_sub5)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 13 (slide15_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide15_shape5_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide15_shape5_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide15_shape5_sub3)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide15_shape5_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 14 (slide15_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide15_shape6_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide15_shape6_sub2)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide15_shape6_sub4)
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 16
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 15 (slide16_shape4)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide16_shape4_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 48 (slide16_shape5)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide16_shape5_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 51 (slide16_shape6)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide16_shape6_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Group Shape: Group 59 (slide16_shape7)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 1 (slide16_shape7_sub1)
+[2025-03-29 12:22:53] [DEBUG] Processing Text Frame in Shape: Title 4 (slide16_shape8)
+[2025-03-29 12:22:53] [DEBUG] Processing Notes for Slide 16
+[2025-03-29 12:22:53] [DEBUG] Processing Slide 17
+[2025-03-29 12:22:53] [INFO] Starting batch translation of 132 texts in 14 batches
+[2025-03-29 12:22:53] [INFO] Processing batch 1/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 2/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 3/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 4/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 5/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 6/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 7/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 8/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 9/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 10/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 11/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 12/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 13/14 (10 texts)
+[2025-03-29 12:22:53] [INFO] Processing batch 14/14 (2 texts)
+[2025-03-29 12:23:06] [INFO] Batch translation completed
+[2025-03-29 12:23:07] [SUCCESS] Translated presentation saved to: 06 - Asset Visibility, Mike Millman, Day 2 SKO_CPS 2024, EMEA_translated_fr.pptx
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 1
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 7 (slide1_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 2
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 2
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 3
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide3_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 17 (slide3_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 26 (slide3_shape4_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide3_shape4_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide3_shape4_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 3
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 4
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide4_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 75 (slide4_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide4_shape1_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Rectangle 2 (slide4_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 3 (slide4_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 5 (slide4_shape5_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 12 (slide4_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide4_shape6_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 15 (slide4_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide4_shape7_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 21 (slide4_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide4_shape8_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 4
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 5
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 4 (slide5_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 1 (slide5_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide5_shape1_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 10 (slide5_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide5_shape2_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide5_shape2_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide5_shape2_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 11 (slide5_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide5_shape3_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide5_shape3_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide5_shape3_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 12 (slide5_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide5_shape4_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide5_shape4_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide5_shape4_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide5_shape4_sub5)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 13 (slide5_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide5_shape5_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide5_shape5_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide5_shape5_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide5_shape5_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 14 (slide5_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide5_shape6_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide5_shape6_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide5_shape6_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 5
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 6
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 30 (slide6_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 75 (slide6_shape0_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 11 (slide6_shape0_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 31 (slide6_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 74 (slide6_shape1_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 12 (slide6_shape1_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide6_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide6_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide6_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide6_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide6_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 18 (slide6_shape10)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide6_shape11)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 79 (slide6_shape12)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide6_shape12_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 78 (slide6_shape13)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide6_shape13_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 76 (slide6_shape14)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide6_shape14_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 80 (slide6_shape15)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 24 (slide6_shape15_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 81 (slide6_shape16)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide6_shape16_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 77 (slide6_shape17)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide6_shape17_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide6_shape24)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 82 (slide6_shape25)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 83 (slide6_shape26)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 6
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 7
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 45 (slide7_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 48 (slide7_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 51 (slide7_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 54 (slide7_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 41 (slide7_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 32 (slide7_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 29 (slide7_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 38 (slide7_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 20 (slide7_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 23 (slide7_shape10)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 26 (slide7_shape11)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 35 (slide7_shape12)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 7
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 8
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide8_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide8_shape17)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide8_shape18)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide8_shape19)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide8_shape20)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide8_shape21)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide8_shape23)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide8_shape24)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide8_shape25)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 8
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 9
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 53 (slide9_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 31 (slide9_shape0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 56 (slide9_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 50 (slide9_shape1_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape1_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 55 (slide9_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 51 (slide9_shape2_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape2_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide9_shape2_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 16 (slide9_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 54 (slide9_shape3_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 52 (slide9_shape3_sub0_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape3_sub0_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 28 (slide9_shape3_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 9
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 10
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide10_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide10_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide10_shape10)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide10_shape11)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide10_shape12)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide10_shape13)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide10_shape15)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 26 (slide10_shape16)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 27 (slide10_shape17)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 10
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 11
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide11_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 12 (slide11_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 32 (slide11_shape1_sub6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide11_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide11_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide11_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide11_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide11_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide11_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide11_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 11
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 12
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide12_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 34 (slide12_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 5 (slide12_shape3_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 29 (slide12_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 32 (slide12_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide12_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide12_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide12_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide12_shape10)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide12_shape11)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide12_shape12)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide12_shape13)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide12_shape14)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide12_shape15)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide12_shape16)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 12
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 13
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 106 (slide13_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 105 (slide13_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape1_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 104 (slide13_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape2_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 35 (slide13_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide13_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide13_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide13_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide13_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide13_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide13_shape9)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide13_shape10)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide13_shape11)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide13_shape12)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide13_shape13)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide13_shape14)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide13_shape15)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide13_shape16)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 49 (slide13_shape17)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide13_shape18)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 51 (slide13_shape19)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide13_shape20)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 107 (slide13_shape21)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 88 (slide13_shape21_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape21_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 64 (slide13_shape22)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 87 (slide13_shape22_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape22_sub0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 63 (slide13_shape23)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 108 (slide13_shape23_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape23_sub2_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide13_shape23_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape24)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 13
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 14
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 79 (slide14_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape0_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 83 (slide14_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape1_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub5)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 82 (slide14_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape2_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape2_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 81 (slide14_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape3_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape3_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 80 (slide14_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape4_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 34 (slide14_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 2 (slide14_shape5_sub0)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 14
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 15
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 4 (slide15_shape0)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 1 (slide15_shape1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide15_shape1_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 10 (slide15_shape2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide15_shape2_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide15_shape2_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide15_shape2_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 11 (slide15_shape3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide15_shape3_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide15_shape3_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide15_shape3_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 12 (slide15_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide15_shape4_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide15_shape4_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide15_shape4_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide15_shape4_sub5)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 13 (slide15_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide15_shape5_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide15_shape5_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide15_shape5_sub3)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide15_shape5_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 14 (slide15_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide15_shape6_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide15_shape6_sub2)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide15_shape6_sub4)
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 16
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 15 (slide16_shape4)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide16_shape4_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 48 (slide16_shape5)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide16_shape5_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 51 (slide16_shape6)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide16_shape6_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Group Shape: Group 59 (slide16_shape7)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 1 (slide16_shape7_sub1)
+[2025-03-29 12:24:38] [DEBUG] Processing Text Frame in Shape: Title 4 (slide16_shape8)
+[2025-03-29 12:24:38] [DEBUG] Processing Notes for Slide 16
+[2025-03-29 12:24:38] [DEBUG] Processing Slide 17
+[2025-03-29 12:24:38] [INFO] All translations found in cache.
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub0_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub0_sub1_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub0_sub1_p0_r3
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub0_sub1_p0_r4
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide3_shape4_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape1_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape1_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape5_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape6_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape6_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape7_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide4_shape8_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape1_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape2_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape2_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape2_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape2_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape3_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape3_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape3_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape4_sub5_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape5_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape5_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape5_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape5_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape5_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape6_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape6_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape6_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape6_sub4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide5_shape6_sub4_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape0_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape5_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape6_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape7_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape8_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape9_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape10_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape10_p1_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape11_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape11_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape11_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape12_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape13_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape14
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape14_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape15_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape17_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape24
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape24_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape25
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide6_shape25_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape9_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape9_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape17_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape17_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape18
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape18_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape18
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape18_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape19
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape19_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape19
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape19_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape20
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape20_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape20
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape20_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape21
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape21_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape21
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape21_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape23_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape23_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape24
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape24_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape24
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape24_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape25
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape25_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape25
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide8_shape25_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p1_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p1_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p1_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p1_r3
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape0_sub1_p1_r4
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape1_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub3_p1_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub3_p2_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub3_p3_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape2_sub3_p4_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p1_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p2_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p3_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p4_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape3_sub0_sub1_p5_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide9_shape4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape0_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape9_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape9_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape10_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape10_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape11_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape11_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape12_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape12_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape13_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape13_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape15_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape15_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape16
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape16_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape16
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape16_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape17_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide10_shape17_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape0_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape2_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape3_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape4_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape4_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape5_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape6_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape6_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape6_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape7_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape8_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide11_shape8_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape6_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape7_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape8_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape9_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape10_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape11_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape11_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape12_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape12_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape13_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape13_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape14
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape14_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape15_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape15_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape16
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide12_shape16_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape1_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape2_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape5_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape6_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape7_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape8_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape9
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape9_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape10
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape10_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape11
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape11_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape12
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape12_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape13
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape13_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape14
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape14_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape15
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape15_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape16
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape16_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape17
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape17_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape18
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape18_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape19
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape19_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape19
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape19_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape20
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape20_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape21
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape21_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape22
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape22_sub0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub2_sub0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub4_p1_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub4_p2_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub4_p3_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape23
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape23_sub4_p4_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape24
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape24_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape24
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide13_shape24_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape0_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape1_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape1_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape1_sub3_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape1_sub4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape1_sub4_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape2_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape2_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape2_sub2_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r2
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r3
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r4
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r5
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub2_p0_r6
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape4_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide14_shape6_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape0_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape0
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape0_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape1
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape1_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape2_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape2_sub1_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape2_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape2
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape2_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape3_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape3_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape3
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape3_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape4_sub5_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape5_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape5_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape5_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape5_sub3_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape5_sub3_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape6_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape6_sub2_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape6_sub2_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape6_sub4_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide15_shape6_sub4_p0_r1
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape4
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide16_shape4_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape5
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide16_shape5_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape6
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide16_shape6_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape7
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide16_shape7_sub1_p0_r0
+[2025-03-29 12:24:38] [WARNING] Could not parse index from shape ID part: shape8
+[2025-03-29 12:24:38] [WARNING] Could not find target run for entry: slide16_shape8_p0_r0
+[2025-03-29 12:24:38] [INFO] Applied 0 translations, skipped 255.
+[2025-03-29 12:24:39] [SUCCESS] Translated presentation saved to: 06 - Asset Visibility, Mike Millman, Day 2 SKO_CPS 2024, EMEA_translated_fr.pptx
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 1
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 7 (slide1_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 2
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 2
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 3
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide3_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 17 (slide3_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 26 (slide3_shape4_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide3_shape4_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide3_shape4_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 3
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 4
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide4_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 75 (slide4_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide4_shape1_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Rectangle 2 (slide4_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 3 (slide4_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 5 (slide4_shape5_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 12 (slide4_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide4_shape6_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 15 (slide4_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide4_shape7_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 21 (slide4_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide4_shape8_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 4
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 5
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 4 (slide5_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 1 (slide5_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide5_shape1_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 10 (slide5_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide5_shape2_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide5_shape2_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide5_shape2_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 11 (slide5_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide5_shape3_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide5_shape3_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide5_shape3_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 12 (slide5_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide5_shape4_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide5_shape4_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide5_shape4_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide5_shape4_sub5)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 13 (slide5_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide5_shape5_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide5_shape5_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide5_shape5_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide5_shape5_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 14 (slide5_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide5_shape6_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide5_shape6_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide5_shape6_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 5
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 6
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 30 (slide6_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 75 (slide6_shape0_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 11 (slide6_shape0_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 31 (slide6_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 74 (slide6_shape1_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 12 (slide6_shape1_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 13 (slide6_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 14 (slide6_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide6_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 16 (slide6_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 17 (slide6_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 18 (slide6_shape10)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide6_shape11)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 79 (slide6_shape12)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide6_shape12_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 78 (slide6_shape13)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide6_shape13_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 76 (slide6_shape14)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide6_shape14_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 80 (slide6_shape15)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 24 (slide6_shape15_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 81 (slide6_shape16)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide6_shape16_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 77 (slide6_shape17)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide6_shape17_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide6_shape24)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 82 (slide6_shape25)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 83 (slide6_shape26)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 6
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 7
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 45 (slide7_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 48 (slide7_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 51 (slide7_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 54 (slide7_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 41 (slide7_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 32 (slide7_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 29 (slide7_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 38 (slide7_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 20 (slide7_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 23 (slide7_shape10)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 26 (slide7_shape11)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 35 (slide7_shape12)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 7
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 8
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide8_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide8_shape17)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide8_shape18)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide8_shape19)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide8_shape20)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide8_shape21)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide8_shape23)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide8_shape24)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide8_shape25)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 8
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 9
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 53 (slide9_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 31 (slide9_shape0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 56 (slide9_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 50 (slide9_shape1_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape1_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 55 (slide9_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 51 (slide9_shape2_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape2_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 30 (slide9_shape2_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 16 (slide9_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 54 (slide9_shape3_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 52 (slide9_shape3_sub0_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape3_sub0_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 28 (slide9_shape3_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide9_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 9
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 10
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide10_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide10_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 20 (slide10_shape10)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 21 (slide10_shape11)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 22 (slide10_shape12)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 23 (slide10_shape13)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 25 (slide10_shape15)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 26 (slide10_shape16)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 27 (slide10_shape17)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 10
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 11
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide11_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 12 (slide11_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 32 (slide11_shape1_sub6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide11_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide11_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide11_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide11_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide11_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide11_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide11_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 11
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 12
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide12_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 34 (slide12_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 5 (slide12_shape3_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 29 (slide12_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 32 (slide12_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide12_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide12_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide12_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide12_shape10)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide12_shape11)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide12_shape12)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide12_shape13)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide12_shape14)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide12_shape15)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide12_shape16)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 12
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 13
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 106 (slide13_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 105 (slide13_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape1_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 104 (slide13_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape2_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 35 (slide13_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 36 (slide13_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 37 (slide13_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 38 (slide13_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 39 (slide13_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 40 (slide13_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 41 (slide13_shape9)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 42 (slide13_shape10)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 43 (slide13_shape11)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 44 (slide13_shape12)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 45 (slide13_shape13)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 46 (slide13_shape14)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide13_shape15)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 48 (slide13_shape16)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 49 (slide13_shape17)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide13_shape18)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 51 (slide13_shape19)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide13_shape20)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 107 (slide13_shape21)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 88 (slide13_shape21_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape21_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 64 (slide13_shape22)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 87 (slide13_shape22_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape22_sub0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 63 (slide13_shape23)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 108 (slide13_shape23_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape23_sub2_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide13_shape23_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide13_shape24)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 13
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 14
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 79 (slide14_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape0_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 83 (slide14_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape1_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape1_sub5)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 82 (slide14_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape2_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape2_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 81 (slide14_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape3_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape3_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 80 (slide14_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Graphic 42 (slide14_shape4_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape4_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 34 (slide14_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 2 (slide14_shape5_sub0)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide14_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 14
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 15
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 4 (slide15_shape0)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 1 (slide15_shape1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 3 (slide15_shape1_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 10 (slide15_shape2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 58 (slide15_shape2_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 60 (slide15_shape2_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 69 (slide15_shape2_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 11 (slide15_shape3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 61 (slide15_shape3_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 65 (slide15_shape3_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 70 (slide15_shape3_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 12 (slide15_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 62 (slide15_shape4_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 66 (slide15_shape4_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 71 (slide15_shape4_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 15 (slide15_shape4_sub5)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 13 (slide15_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 63 (slide15_shape5_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 67 (slide15_shape5_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 72 (slide15_shape5_sub3)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 77 (slide15_shape5_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 14 (slide15_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 64 (slide15_shape6_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 68 (slide15_shape6_sub2)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 19 (slide15_shape6_sub4)
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 16
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 15 (slide16_shape4)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 47 (slide16_shape4_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 48 (slide16_shape5)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 50 (slide16_shape5_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 51 (slide16_shape6)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: TextBox 53 (slide16_shape6_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Group Shape: Group 59 (slide16_shape7)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 1 (slide16_shape7_sub1)
+[2025-03-29 12:25:20] [DEBUG] Processing Text Frame in Shape: Title 4 (slide16_shape8)
+[2025-03-29 12:25:20] [DEBUG] Processing Notes for Slide 16
+[2025-03-29 12:25:20] [DEBUG] Processing Slide 17
+[2025-03-29 12:25:20] [INFO] All translations found in cache.
+[2025-03-29 12:25:20] [INFO] Applied 233 translations, skipped 22.
+[2025-03-29 12:25:20] [SUCCESS] Translated presentation saved to: 06 - Asset Visibility, Mike Millman, Day 2 SKO_CPS 2024, EMEA_translated_fr.pptx

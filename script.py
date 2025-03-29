@@ -3,6 +3,7 @@ import os
 import pptx
 from pptx import Presentation
 from pptx.util import Inches
+from pptx.enum.shapes import MSO_SHAPE_TYPE
 import json
 from typing import List, Dict
 import argparse
@@ -11,6 +12,7 @@ from datetime import datetime
 from openai import AsyncOpenAI
 import asyncio
 import cProfile
+import re
 
 # --- Constants and Configurations ---
 
@@ -120,38 +122,94 @@ def extract_text_from_presentation(presentation_path: str) -> List[Dict]:
         prs = Presentation(presentation_path)
         text_data = []
 
-        for slide_number, slide in enumerate(prs.slides, start=1):
-            for shape_index, shape in enumerate(slide.shapes):
-                shape_id = f"slide{slide_number}_shape{shape_index}"
-                if shape.has_text_frame:
-                    text_frame = shape.text_frame
-                    for paragraph in text_frame.paragraphs:
-                        for run in paragraph.runs:
+        def _extract_text_from_shape(shape, slide_number, base_shape_id):
+            """Helper function to recursively extract text from shapes and groups."""
+            nonlocal text_data
+            shape_index = base_shape_id # Use the passed-in index/id
+
+            # Handle Groups Recursively
+            if shape.shape_type == MSO_SHAPE_TYPE.GROUP:
+                log_message(f"Processing Group Shape: {shape.name} ({base_shape_id})", level="DEBUG")
+                for i, sub_shape in enumerate(shape.shapes):
+                    sub_shape_id = f"{base_shape_id}_sub{i}"
+                    _extract_text_from_shape(sub_shape, slide_number, sub_shape_id)
+                return # Don't process the group container itself further
+
+            # Handle Text Frames
+            if shape.has_text_frame:
+                text_frame = shape.text_frame
+                if text_frame.text.strip(): # Check if frame has text before iterating
+                    log_message(f"Processing Text Frame in Shape: {shape.name} ({base_shape_id})", level="DEBUG")
+                    for para_idx, paragraph in enumerate(text_frame.paragraphs):
+                        for run_idx, run in enumerate(paragraph.runs):
                             if run.text.strip():
                                 shape_type = "UNKNOWN"
-                                if shape == slide.shapes.title:
-                                    shape_type = "TITLE"
-                                elif shape.has_table:
-                                    shape_type = "TABLE"
-                                else:
-                                    shape_type = "BODY"
+                                try:
+                                    # Checking title requires access to the slide object, difficult here
+                                    # Simplified type detection
+                                    if hasattr(shape, 'is_placeholder') and shape.is_placeholder:
+                                        shape_type = "PLACEHOLDER"
+                                    else:
+                                        shape_type = "BODY" # Default assumption
+                                except AttributeError:
+                                    shape_type = "BODY" # Fallback
 
                                 text_data.append({
                                     "slide_number": slide_number,
                                     "shape_type": shape_type,
                                     "text": run.text,
-                                    "shape_id": shape_id,
+                                    "shape_id": f"{base_shape_id}_p{para_idx}_r{run_idx}",
+                                    "original_shape_id": base_shape_id,
+                                    "paragraph_index": para_idx,
+                                    "run_index": run_idx,
                                 })
 
-                elif shape.has_table:
-                    for row_idx, row in enumerate(shape.table.rows):
-                        for col_idx, cell in enumerate(row.cells):
-                            if cell.text.strip():
+            # Handle Tables
+            elif shape.has_table:
+                log_message(f"Processing Table Shape: {shape.name} ({base_shape_id})", level="DEBUG")
+                table = shape.table
+                for row_idx, row in enumerate(table.rows):
+                    for col_idx, cell in enumerate(row.cells):
+                        cell_text = cell.text.strip()
+                        if cell_text:
+                            text_data.append({
+                                "slide_number": slide_number,
+                                "shape_type": "TABLE",
+                                "text": cell_text,
+                                "shape_id": f"{base_shape_id}_row{row_idx}_col{col_idx}",
+                                "original_shape_id": base_shape_id,
+                                "row_index": row_idx,
+                                "col_index": col_idx,
+                            })
+            # else: # Optional: Log shapes that are neither text, table, nor group
+                # if shape.shape_type != MSO_SHAPE_TYPE.GROUP: # Already handled
+                    # log_message(f"Skipping non-text/table/group shape: {shape.name} ({shape.shape_type}) ({base_shape_id})", level="DEBUG")
+
+        # --- Main Extraction Loop ---
+        for slide_number, slide in enumerate(prs.slides, start=1):
+            log_message(f"Processing Slide {slide_number}", level="DEBUG")
+            # Extract from shapes on the slide
+            for shape_index, shape in enumerate(slide.shapes):
+                shape_id = f"slide{slide_number}_shape{shape_index}"
+                _extract_text_from_shape(shape, slide_number, shape_id)
+
+            # Extract from speaker notes
+            if slide.has_notes_slide:
+                log_message(f"Processing Notes for Slide {slide_number}", level="DEBUG")
+                notes_slide = slide.notes_slide
+                notes_tf = notes_slide.notes_text_frame
+                if notes_tf and notes_tf.text.strip():
+                    for para_idx, paragraph in enumerate(notes_tf.paragraphs):
+                        for run_idx, run in enumerate(paragraph.runs):
+                             if run.text.strip():
                                 text_data.append({
                                     "slide_number": slide_number,
-                                    "shape_type": "TABLE",
-                                    "text": cell.text,
-                                    "shape_id": f"{shape_id}_row{row_idx}_col{col_idx}"
+                                    "shape_type": "NOTES",
+                                    "text": run.text,
+                                    "shape_id": f"slide{slide_number}_notes_p{para_idx}_r{run_idx}",
+                                    "original_shape_id": f"slide{slide_number}_notes",
+                                    "paragraph_index": para_idx,
+                                    "run_index": run_idx,
                                 })
 
         return text_data
@@ -204,7 +262,7 @@ async def batch_translate_texts_with_openai(text_entries: List[Dict], target_lan
 
         api_key = os.environ.get("OPENAI_API_KEY")
         if not api_key:
-            raise ValueError("OpenAI API key not found. Please set the OPENAI_API_KEY environment variable.")
+            raise ValueError("OpenAI API Key not found. Please set the OPENAI_API_KEY environment variable.")
 
         client = AsyncOpenAI(api_key=api_key, timeout=60.0)
 
@@ -258,77 +316,176 @@ async def translate_presentation(presentation_path: str, target_language: str, o
     """Translates a PowerPoint presentation and saves the translated version."""
 
     if not presentation_path.lower().endswith(SUPPORTED_EXTENSIONS):
-        log_message(f"Unsupported file format: {presentation_path}.  Skipping.", level="WARNING")
+        log_message(f"Unsupported file format: {presentation_path}. Skipping.", level="WARNING")
         return
 
     if presentation_path == output_path:
-        log_message("Input and output paths are the same.  This is not allowed.", level="ERROR")
+        log_message("Input and output paths are the same. This is not allowed.", level="ERROR")
         return
 
     try:
+        # 1. Extract Text
+        # Use the improved extraction logic
         text_data = extract_text_from_presentation(presentation_path)
         if not text_data:
             log_message(f"No text found to translate in {presentation_path}.", level="WARNING")
             return
 
-        # Get the cache filename based on presentation path and language
+        # 2. Translate Text (using cache)
         cache_file = get_cache_filename(presentation_path, target_language)
         cache = load_cache(cache_file)
-
         await batch_translate_texts_with_openai(text_data, target_language, cache)
-
-        # Save the cache after batch translation
         save_cache(cache, cache_file)
 
+        # 3. Apply Translations
+        # Create a dictionary mapping original text hash to translated text for quick lookup
+        translation_map = {generate_prompt_hash(entry["text"]): cache.get(generate_prompt_hash(entry["text"])) for entry in text_data}
+
+        # Load the original presentation *again* to apply changes cleanly
+        # Applying to a modified structure can be complex
         prs = Presentation(presentation_path)
+
+        # --- Helper function to find nested shapes (needed for groups) ---
+        def find_shape_recursive(parent_shape_collection, target_id_parts):
+            if not target_id_parts:
+                log_message("find_shape_recursive called with empty target_id_parts", level="WARNING")
+                return None
+            
+            current_part = target_id_parts[0]
+            remaining_parts = target_id_parts[1:]
+
+            # Extract index from the current part (e.g., 'shape0', 'sub1')
+            try:
+                # Find the last sequence of digits in the part
+                match = re.search(r'(\d+)$', current_part)
+                if not match:
+                     log_message(f"Could not find numerical index in shape ID part: {current_part}", level="WARNING")
+                     return None
+                shape_index = int(match.group(1))
+
+            except (ValueError, IndexError):
+                log_message(f"Could not parse index from shape ID part: {current_part}", level="WARNING")
+                return None
+
+            if shape_index < len(parent_shape_collection):
+                shape = parent_shape_collection[shape_index]
+                if not remaining_parts:
+                    # Found the target shape
+                    return shape
+                elif shape.shape_type == MSO_SHAPE_TYPE.GROUP:
+                    # Recurse into the group
+                    return find_shape_recursive(shape.shapes, remaining_parts)
+                else:
+                    # ID has more parts, but shape is not a group - mismatch
+                    log_message(f"ID path continues {remaining_parts}, but shape {shape_index} is not a group.", level="WARNING")
+                    return None
+            else:
+                log_message(f"Shape index {shape_index} out of bounds for collection size {len(parent_shape_collection)}.", level="WARNING")
+                return None
+        # --- End Helper --- 
+
+        # Apply translations entry by entry
+        applied_count = 0
+        skipped_count = 0
+        for entry in text_data:
+            original_text = entry["text"]
+            prompt_hash = generate_prompt_hash(original_text)
+            translated_text = translation_map.get(prompt_hash)
+
+            if not translated_text or translated_text == original_text:
+                # Skip if no translation found or translation is same as original
+                skipped_count += 1
+                continue
+
+            try:
+                slide_number = entry["slide_number"]
+                target_slide = prs.slides[slide_number - 1]
+                shape_type = entry["shape_type"]
+                para_idx = entry["paragraph_index"]
+                run_idx = entry["run_index"]
+                original_shape_id_str = entry["original_shape_id"] # e.g., "slide1_shape0", "slide3_shape4_sub0", "slide1_notes"
+
+                target_run = None
+                shape = None
+
+                if shape_type == "NOTES":
+                    if target_slide.has_notes_slide and target_slide.notes_slide.notes_text_frame:
+                        notes_tf = target_slide.notes_slide.notes_text_frame
+                        if para_idx < len(notes_tf.paragraphs):
+                            paragraph = notes_tf.paragraphs[para_idx]
+                            if run_idx < len(paragraph.runs):
+                                target_run = paragraph.runs[run_idx]
+                else:
+                    # Parse the shape ID string to find the shape
+                    # ID Format examples: slide1_shape0_unnamed0, slide3_shape4_Group17_sub0_Group26_sub1_TextBox13
+                    id_parts = original_shape_id_str.split('_')
+                    if len(id_parts) < 2 or not id_parts[0].startswith('slide'):
+                         log_message(f"Invalid original_shape_id format: {original_shape_id_str}", level="WARNING")
+                         continue
+                    
+                    # Start searching from slide shapes, skip slide part (e.g., 'slide1')
+                    shape_path_parts = id_parts[1:] # e.g. ['shape0_unnamed0'], ['shape4_Group17', 'sub0_Group26', 'sub1_TextBox13']
+                    
+                    # We need to reconstruct the path to the shape including group indices
+                    # The `original_shape_id` stored during extraction needs adjustment
+                    # Let's use the more detailed `shape_id` instead, which has the full path
+                    detailed_shape_id = entry["shape_id"]
+                    # e.g. "slide1_shape0_unnamed0_p0_r0", "slide3_shape4_Group17_sub0_Group26_sub1_TextBox13_p0_r0"
+                    # e.g. "slide1_shape1_Table_row0_col1_p0_r0"
+                    
+                    id_parts = detailed_shape_id.split('_')
+                    path_to_shape = []
+                    for part in id_parts[1:]: # Skip slide number part
+                        if part.startswith('p') or part.startswith('r') or part.startswith('row') or part.startswith('col'):
+                            break # Stop when we reach paragraph/run/cell parts
+                        path_to_shape.append(part) # e.g. ['shape0', 'shape4', 'sub0', 'sub1']
+                    
+                    if not path_to_shape:
+                        log_message(f"Could not extract shape path from ID: {detailed_shape_id}", level="WARNING")
+                        continue
+                        
+                    # Find the shape recursively
+                    shape = find_shape_recursive(target_slide.shapes, path_to_shape)
+
+                    if shape:
+                        if shape_type == "TABLE":
+                            row_idx = entry["row_index"]
+                            col_idx = entry["col_index"]
+                            if shape.has_table:
+                                if row_idx < len(shape.table.rows) and col_idx < len(shape.table.columns):
+                                    cell = shape.table.cell(row_idx, col_idx)
+                                    if cell.text_frame and para_idx < len(cell.text_frame.paragraphs):
+                                        paragraph = cell.text_frame.paragraphs[para_idx]
+                                        if run_idx < len(paragraph.runs):
+                                            target_run = paragraph.runs[run_idx]
+                        elif shape.has_text_frame:
+                             if para_idx < len(shape.text_frame.paragraphs):
+                                paragraph = shape.text_frame.paragraphs[para_idx]
+                                if run_idx < len(paragraph.runs):
+                                    target_run = paragraph.runs[run_idx]
+
+                # Apply the translation if the target run was found
+                if target_run:
+                    # Verify original text match as a safety check? Maybe too strict.
+                    # if target_run.text == original_text:
+                    target_run.text = translated_text
+                    applied_count += 1
+                    # else:
+                    #     log_message(f"Text mismatch for run {detailed_shape_id}. Expected '{original_text}', found '{target_run.text}'. Skipping.", level="WARNING")
+                    #     skipped_count += 1
+                else:
+                     log_message(f"Could not find target run for entry: {entry['shape_id']}", level="WARNING")
+                     skipped_count += 1
+
+            except IndexError:
+                 log_message(f"Index error applying translation for {entry['shape_id']}", level="WARNING")
+                 skipped_count += 1
+            except Exception as e:
+                log_message(f"Error applying translation for {entry['shape_id']}: {e}", level="ERROR")
+                skipped_count += 1
+        
+        log_message(f"Applied {applied_count} translations, skipped {skipped_count}.", level="INFO")
         prs.save(output_path)
-
-        translated_prs = Presentation(output_path)
-
-        translated_text_data = []
-        for text_entry in text_data:
-            prompt_hash = generate_prompt_hash(text_entry["text"])
-            translated_text = cache.get(prompt_hash, text_entry["text"])  # Fallback to original
-            translated_text_entry = text_entry.copy()
-            translated_text_entry["translated_text"] = translated_text
-            translated_text_data.append(translated_text_entry)
-
-        for slide_number, slide in enumerate(translated_prs.slides, start=1):
-            for shape_index, shape in enumerate(slide.shapes):
-                shape_id = f"slide{slide_number}_shape{shape_index}"
-
-                translated_text_entry = next((entry for entry in translated_text_data if entry["shape_id"] == shape_id), None)
-
-                if translated_text_entry:
-                    if shape.has_text_frame:
-                        try:
-                            text_frame = shape.text_frame
-                            for p_idx, paragraph in enumerate(text_frame.paragraphs):
-                                for run_idx, run in enumerate(paragraph.runs):
-                                    if run.text.strip():
-                                        for entry in translated_text_data:
-                                            if entry["shape_id"] == shape_id and entry["text"] == run.text:
-                                                run.text = entry["translated_text"]
-                                                break
-
-                        except Exception as e:
-                            log_message(f"Error modifying text in shape {shape_id} on slide {slide_number}: {e}", level="ERROR")
-                            continue
-
-                    elif shape.has_table:
-                        try:
-                            for row_idx, row in enumerate(shape.table.rows):
-                                for col_idx, cell in enumerate(row.cells):
-                                    cell_shape_id = f"{shape_id}_row{row_idx}_col{col_idx}"
-                                    cell_translated_text_entry = next((entry for entry in translated_text_data if entry["shape_id"] == cell_shape_id), None)
-                                    if cell_translated_text_entry:
-                                        cell.text = cell_translated_text_entry["translated_text"]
-
-                        except Exception as e:
-                            log_message(f"Error modifying table {shape_id} on slide {slide_number}: {e}", level="ERROR")
-                            continue
-
-        translated_prs.save(output_path)
         log_message(f"Translated presentation saved to: {output_path}", level="SUCCESS")
 
     except Exception as e:
